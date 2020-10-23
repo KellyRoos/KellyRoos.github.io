@@ -109,5 +109,4 @@ h3 {
   </table>
   <h3>Which school do you go to?</h3>
   <p>I go to Tallinn University of Technology. You can check out some cool stuff about my school here: <a href="https://taltech.ee/">TalTech</a>.
-  </p>
-</div>
+  </p></div>
